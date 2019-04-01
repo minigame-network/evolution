@@ -1,0 +1,6 @@
+name: Evolution
+main: me.chasertw123.evolution.Main
+description: Evolution Plugin
+depend: [ParadiseCore, iDisguise]
+authors: [Sodex234, chasertw123]
+version: 1.0.0
